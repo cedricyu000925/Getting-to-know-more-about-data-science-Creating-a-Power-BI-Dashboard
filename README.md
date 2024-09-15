@@ -8,6 +8,8 @@ This repository contains a comprehensive analysis of a real dataset collected fr
 The dataset used in this project is a real dataset obtained from a survey conducted among data professionals. It includes responses to various items such as job titles, current salaries, and other indicators of job satisfaction. The dataset can be found in this repository. This data serves as the foundation for our analysis and dashboard design.
 
 # Steps Implemented
+![PowerBI](https://github.com/user-attachments/assets/3d4ec724-035a-44d6-995c-d4e16b4375d3)
+
 To complete this project, the following steps were undertaken:
 
 **Data Cleaning:** Utilizing Power Query Editor, we performed several data cleaning tasks, including:
